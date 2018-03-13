@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 
 const styles={ height: "100vh", width: "100vw", padding: "30px"}
-class Counter extends Component{
+class Position extends Component{
     constructor(props){
         super(props)
         this.state = { 
@@ -24,4 +24,4 @@ class Counter extends Component{
     }
 }
 
-export default Counter;
+export default Position;
