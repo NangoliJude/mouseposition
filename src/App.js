@@ -1,11 +1,11 @@
 import React from 'react';
-import Counter from './counter';
+import Position from './position';
 
 
 const App = ()=>{
     return(
         <div>
-            <Counter/>
+            <Position/>
         </div>
     )
 };
